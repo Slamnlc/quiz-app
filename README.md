@@ -24,3 +24,5 @@ npm i
 ```
 npm run dev
 ```
+
+## To update questions - go to src/data folder
